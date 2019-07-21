@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/react-funpage/static/css/main.d83b215e.chunk.css",
-    "main.js": "/react-funpage/static/js/main.90f2b37c.chunk.js",
-    "main.js.map": "/react-funpage/static/js/main.90f2b37c.chunk.js.map",
+    "main.js": "/react-funpage/static/js/main.a56ac66b.chunk.js",
+    "main.js.map": "/react-funpage/static/js/main.a56ac66b.chunk.js.map",
     "runtime~main.js": "/react-funpage/static/js/runtime~main.6ef4840e.js",
     "runtime~main.js.map": "/react-funpage/static/js/runtime~main.6ef4840e.js.map",
     "static/js/2.65aa1cca.chunk.js": "/react-funpage/static/js/2.65aa1cca.chunk.js",
     "static/js/2.65aa1cca.chunk.js.map": "/react-funpage/static/js/2.65aa1cca.chunk.js.map",
     "index.html": "/react-funpage/index.html",
-    "precache-manifest.533a6fc4eaba64779aad037fb83cfdf2.js": "/react-funpage/precache-manifest.533a6fc4eaba64779aad037fb83cfdf2.js",
+    "precache-manifest.7cd46823007ff23068a93f8b79496ca2.js": "/react-funpage/precache-manifest.7cd46823007ff23068a93f8b79496ca2.js",
     "service-worker.js": "/react-funpage/service-worker.js",
     "static/css/main.d83b215e.chunk.css.map": "/react-funpage/static/css/main.d83b215e.chunk.css.map"
   }
